@@ -118,7 +118,7 @@ tar -xzf /tmp/multistalker-mips-1.2.tar.gz -C /
 
 wait
 
-rm -f /tmp/multistalker-pro-1.2.tar.gz
+rm -f /tmp/multistalker-mips-1.2.tar.gz
 echo "   UPLOADED BY  >>>>   TAREK_TT "   
 sleep 4;                                                                                                                  
 echo ". >>>>         RESTARING     <<<<"
