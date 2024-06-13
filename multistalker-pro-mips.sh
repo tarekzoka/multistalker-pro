@@ -1,4 +1,4 @@
-#!/bin/bas
+#!/bin/bash
 opkg update && opkg upgrade
    opkg install p7zip
    opkg install wget 
